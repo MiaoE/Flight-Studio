@@ -32,5 +32,4 @@ pip install -r requirements.txt
 ```
 
 # flight-studio
-
-# flight-studio
+See project page on [Devpost](https://devpost.com/software/flight-studio)
